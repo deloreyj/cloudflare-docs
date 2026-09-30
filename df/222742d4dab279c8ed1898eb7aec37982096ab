@@ -1,0 +1,19 @@
+.github/CODEOWNERS
+  s_ecd6aa3a390f79::t_e448f22f4c535a 1103-1110
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "df222742d4dab279c8ed1898eb7aec37982096ab",
+  "prompts": {},
+  "sessions": {
+    "s_ecd6aa3a390f79": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0f157-a2d6-7130-a456-622126a75cdd",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "James Delorey <jdelorey@cloudflare.com>"
+    }
+  }
+}
